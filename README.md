@@ -72,11 +72,11 @@ Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) 
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Kayke-Fujinaka/Dev-s-Burger-Orders
+$ git clone https://github.com/devMatheus20/dev-burguer-orders.git
 # Access
 $ cd Desafio
 # Install dependencies
-$ npm 
+$ npm i
 # Run the project
 $ npm start 
 # The server will initialize in the <http://localhost:3001>
