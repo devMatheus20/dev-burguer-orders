@@ -102,7 +102,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 📝 License
 
 Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+  
+Made with ♥ by Matheus Santos :wave: <a href="https://www.linkedin.com/in/matheus-santos-souza">Get in touch!</a>
 
-&#xa0;
+[⬆ Voltar ao topo](#Clinica)<br>
 
 [⬆ Voltar ao topo](#top)<br>
